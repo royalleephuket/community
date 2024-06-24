@@ -302,7 +302,7 @@ git push --force
 [コントリビューターガイド]: /contributors/guide/README.md
 [開発者ガイド]: /contributors/devel/README.md
 [prow]: https://prow.k8s.io
-[tide]: http://git.k8s.io/test-infra/prow/cmd/tide/pr-authors.md
+[tide]: https://sigs.k8s.io/prow/site/content/en/docs/components/core/tide/pr-authors.md
 [tideダッシュボード]: https://prow.k8s.io/tide
 [botコマンド]: https://go.k8s.io/bot-commands
 [GitHubラベル]: https://go.k8s.io/github-labels
@@ -322,7 +322,7 @@ git push --force
 [kubernetesフォーラム]: https://discuss.kubernetes.io/
 [pull request process]: /contributors/guide/pull-requests.md
 [github workflow]: /contributors/guide/github-workflow.md
-[prow]: https://git.k8s.io/test-infra/prow#prow
+[prow]: https://sigs.k8s.io/prow/pkg
 [cla]: /CLA.md#how-do-i-sign
 [claトラブルシューティングガイドライン]: /CLA.md#troubleshooting
 [コマンド]: https://prow.k8s.io/command-help
